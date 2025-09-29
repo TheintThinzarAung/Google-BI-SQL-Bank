@@ -1,1 +1,1 @@
-# google-bi-sql-bank
+#### SQL Q&A prep for Google Business Intelligence role
